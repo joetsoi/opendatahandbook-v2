@@ -1,1 +1,4 @@
 polib
+pyyaml
+requests
+slugify

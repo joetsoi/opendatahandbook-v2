@@ -62,3 +62,6 @@ defaults:
       section: Guide
       layout: page
       edit: true 
+
+collections:
+  - resources
